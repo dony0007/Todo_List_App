@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962112333194",
+    "project_id": "cloudexminternel",
+    "storage_bucket": "cloudexminternel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962112333194:android:5582df7a1456b6258b5473",
+        "android_client_info": {
+          "package_name": "com.example.cloudexminternel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdR0yMzVK1w7y48I2OtPgmq51uidO1GTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
